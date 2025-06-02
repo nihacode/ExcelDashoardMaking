@@ -1,0 +1,536 @@
+Row Labels,Sum of Sales,,,,,,,,,,,,
+Aberdeen,25.5,,,,,,,,,,,,
+Abilene,1.392,,,,,,,,,,,,
+Akron,2729.986,,,,,,,,,,,,
+Albuquerque,2220.16,,,,,,,,,,,,25.5
+Alexandria,5519.57,,,,,,,,,,,Abilene,1.392
+Allen,290.206,,,,,,,,,,,Akron,2729.986
+Allentown,853.252,,,,,,,,,,,Albuquerque,2220.16
+Altoona,20.451,,,,,,,,,,,Alexandria,5519.57
+Amarillo,3773.0628,,,,,,,,,,,Allen,290.206
+Anaheim,7986.87,,,,,,,,,,,Allentown,853.252
+Andover,435.85,,,,,,,,,,,Altoona,20.451
+Ann Arbor,889.273,,,,,,,,,,,Amarillo,3773.0628
+Antioch,19.44,,,,,,,,,,,Anaheim,7986.87
+Apopka,904.554,,,,,,,,,,,Andover,435.85
+Apple Valley,2053.021,,,,,,,,,,,Ann Arbor,889.273
+Appleton,1671.31,,,,,,,,,,,Antioch,19.44
+Arlington,20214.532,,,,,,,,,,,Apopka,904.554
+Arlington Heights,14.112,,,,,,,,,,,Apple Valley,2053.021
+Arvada,503.4,,,,,,,,,,,Appleton,1671.31
+Asheville,1475.376,,,,,,,,,,,Arlington,20214.532
+Athens,1720.81,,,,,,,,,,,Arlington Heights,14.112
+Atlanta,17197.84,,,,,,,,,,,Arvada,503.4
+Atlantic City,23.36,,,,,,,,,,,Asheville,1475.376
+Auburn,3155.168,,,,,,,,,,,Athens,1720.81
+Aurora,11656.478,,,,,,,,,,,Atlanta,17197.84
+Austin,6057.982,,,,,,,,,,,Atlantic City,23.36
+Avondale,946.808,,,,,,,,,,,Auburn,3155.168
+Bakersfield,1377.29,,,,,,,,,,,Aurora,11656.478
+Baltimore,6156.842,,,,,,,,,,,Austin,6057.982
+Bangor,1164.45,,,,,,,,,,,Avondale,946.808
+Bartlett,88.96,,,,,,,,,,,Bakersfield,1377.29
+Bayonne,183.4,,,,,,,,,,,Baltimore,6156.842
+Baytown,10.368,,,,,,,,,,,Bangor,1164.45
+Beaumont,472.116,,,,,,,,,,,Bartlett,88.96
+Bedford,226.256,,,,,,,,,,,Bayonne,183.4
+Belleville,1891.6,,,,,,,,,,,Baytown,10.368
+Bellevue,103.622,,,,,,,,,,,Beaumont,472.116
+Bellingham,3790.24,,,,,,,,,,,Bedford,226.256
+Bethlehem,1689.634,,,,,,,,,,,Belleville,1891.6
+Beverly,2583.19,,,,,,,,,,,Bellevue,103.622
+Billings,8.288,,,,,,,,,,,Bellingham,3790.24
+Bloomington,1567.74,,,,,,,,,,,Bethlehem,1689.634
+Boca Raton,63.008,,,,,,,,,,,Beverly,2583.19
+Boise,1094.47,,,,,,,,,,,Billings,8.288
+Bolingbrook,218.308,,,,,,,,,,,Bloomington,1567.74
+Bossier City,1417.18,,,,,,,,,,,Boca Raton,63.008
+Bowling Green,2077.375,,,,,,,,,,,Boise,1094.47
+Boynton Beach,469.585,,,,,,,,,,,Bolingbrook,218.308
+Bozeman,43.66,,,,,,,,,,,Bossier City,1417.18
+Brentwood,5090.114,,,,,,,,,,,Bowling Green,2077.375
+Bridgeton,52.41,,,,,,,,,,,Boynton Beach,469.585
+Bristol,1251.182,,,,,,,,,,,Bozeman,43.66
+Broken Arrow,2439.53,,,,,,,,,,,Brentwood,5090.114
+Broomfield,793.504,,,,,,,,,,,Bridgeton,52.41
+Brownsville,1292.2268,,,,,,,,,,,Bristol,1251.182
+Bryan,616.656,,,,,,,,,,,Broken Arrow,2439.53
+Buffalo,9063.496,,,,,,,,,,,Broomfield,793.504
+Buffalo Grove,831.399,,,,,,,,,,,Brownsville,1292.2268
+Bullhead City,22.288,,,,,,,,,,,Bryan,616.656
+Burbank,3247.158,,,,,,,,,,,Buffalo,9063.496
+Burlington,21668.082,,,,,,,,,,,Buffalo Grove,831.399
+Caldwell,455.632,,,,,,,,,,,Bullhead City,22.288
+Camarillo,1467.5175,,,,,,,,,,,Burbank,3247.158
+Cambridge,502.09,,,,,,,,,,,Burlington,21668.082
+Canton,818.13,,,,,,,,,,,Caldwell,455.632
+Carlsbad,419.34,,,,,,,,,,,Camarillo,1467.5175
+Carol Stream,1305.81,,,,,,,,,,,Cambridge,502.09
+Carrollton,2200.646,,,,,,,,,,,Canton,818.13
+Cary,505.208,,,,,,,,,,,Carlsbad,419.34
+Cedar Hill,122.376,,,,,,,,,,,Carol Stream,1305.81
+Cedar Rapids,278.4,,,,,,,,,,,Carrollton,2200.646
+Champaign,151.96,,,,,,,,,,,Cary,505.208
+Chandler,1076.747,,,,,,,,,,,Cedar Hill,122.376
+Chapel Hill,14.016,,,,,,,,,,,Cedar Rapids,278.4
+Charlotte,13693.339,,,,,,,,,,,Champaign,151.96
+Charlottesville,102.61,,,,,,,,,,,Chandler,1076.747
+Chattanooga,988.803,,,,,,,,,,,Chapel Hill,14.016
+Chesapeake,5996.72,,,,,,,,,,,Charlotte,13693.339
+Chester,1968.479,,,,,,,,,,,Charlottesville,102.61
+Cheyenne,1603.136,,,,,,,,,,,Chattanooga,988.803
+Chicago,48539.541,,,,,,,,,,,Chesapeake,5996.72
+Chico,2050.178,,,,,,,,,,,Chester,1968.479
+Chula Vista,1041.62,,,,,,,,,,,Cheyenne,1603.136
+Cincinnati,1611.976,,,,,,,,,,,Chicago,48539.541
+Citrus Heights,129.39,,,,,,,,,,,Chico,2050.178
+Clarksville,2217.73,,,,,,,,,,,Chula Vista,1041.62
+Cleveland,6346.185,,,,,,,,,,,Cincinnati,1611.976
+Clifton,336.82,,,,,,,,,,,Citrus Heights,129.39
+Clinton,5514.251,,,,,,,,,,,Clarksville,2217.73
+Clovis,111.42,,,,,,,,,,,Cleveland,6346.185
+Coachella,163.55,,,,,,,,,,,Clifton,336.82
+College Station,291.042,,,,,,,,,,,Clinton,5514.251
+Colorado Springs,3694.009,,,,,,,,,,,Clovis,111.42
+Columbia,25283.324,,,,,,,,,,,Coachella,163.55
+Columbus,38706.243,,,,,,,,,,,College Station,291.042
+Commerce City,146.352,,,,,,,,,,,Colorado Springs,3694.009
+Concord,10542.402,,,,,,,,,,,Columbia,25283.324
+Conroe,111.672,,,,,,,,,,,Columbus,38706.243
+Conway,301.96,,,,,,,,,,,Commerce City,146.352
+Coon Rapids,503.13,,,,,,,,,,,Concord,10542.402
+Coppell,135.936,,,,,,,,,,,Conroe,111.672
+Coral Gables,64.248,,,,,,,,,,,Conway,301.96
+Coral Springs,824.992,,,,,,,,,,,Coon Rapids,503.13
+Corpus Christi,220.544,,,,,,,,,,,Coppell,135.936
+Costa Mesa,1497.67,,,,,,,,,,,Coral Gables,64.248
+Cottage Grove,144.36,,,,,,,,,,,Coral Springs,824.992
+Covington,413.68,,,,,,,,,,,Corpus Christi,220.544
+Cranston,4024.916,,,,,,,,,,,Costa Mesa,1497.67
+Cuyahoga Falls,29.094,,,,,,,,,,,Cottage Grove,144.36
+Dallas,20131.9322,,,,,,,,,,,Covington,413.68
+Danbury,27.46,,,,,,,,,,,Cranston,4024.916
+Danville,1202.254,,,,,,,,,,,Cuyahoga Falls,29.094
+Davis,32.4,,,,,,,,,,,Dallas,20131.9322
+Daytona Beach,272.3315,,,,,,,,,,,Danbury,27.46
+Dearborn,1603.31,,,,,,,,,,,Danville,1202.254
+Dearborn Heights,1051.57,,,,,,,,,,,Davis,32.4
+Decatur,6544.293,,,,,,,,,,,Daytona Beach,272.3315
+Deer Park,6.924,,,,,,,,,,,Dearborn,1603.31
+Delray Beach,242.536,,,,,,,,,,,Dearborn Heights,1051.57
+Deltona,893.24,,,,,,,,,,,Decatur,6544.293
+Denver,12198.793,,,,,,,,,,,Deer Park,6.924
+Des Moines,5463.278,,,,,,,,,,,Delray Beach,242.536
+Des Plaines,1493.212,,,,,,,,,,,Deltona,893.24
+Detroit,42446.944,,,,,,,,,,,Denver,12198.793
+Dover,4878.074,,,,,,,,,,,Des Moines,5463.278
+Draper,263.65,,,,,,,,,,,Des Plaines,1493.212
+Dublin,2401.16,,,,,,,,,,,Detroit,42446.944
+Dubuque,1687.3,,,,,,,,,,,Dover,4878.074
+Durham,879.96,,,,,,,,,,,Draper,263.65
+Eagan,214.28,,,,,,,,,,,Dublin,2401.16
+East Orange,377.27,,,,,,,,,,,Dubuque,1687.3
+East Point,268.4,,,,,,,,,,,Durham,879.96
+Eau Claire,1645.65,,,,,,,,,,,Eagan,214.28
+Edinburg,88.276,,,,,,,,,,,East Orange,377.27
+Edmond,959.55,,,,,,,,,,,East Point,268.4
+Edmonds,2523.692,,,,,,,,,,,Eau Claire,1645.65
+El Cajon,865.616,,,,,,,,,,,Edinburg,88.276
+El Paso,3546.064,,,,,,,,,,,Edmond,959.55
+Elkhart,171.43,,,,,,,,,,,Edmonds,2523.692
+Elmhurst,891.628,,,,,,,,,,,El Cajon,865.616
+Elyria,1.824,,,,,,,,,,,El Paso,3546.064
+Encinitas,591.981,,,,,,,,,,,Elkhart,171.43
+Englewood,124.056,,,,,,,,,,,Elmhurst,891.628
+Escondido,94.548,,,,,,,,,,,Elyria,1.824
+Eugene,1465.032,,,,,,,,,,,Encinitas,591.981
+Evanston,1753.799,,,,,,,,,,,Englewood,124.056
+Everett,5665.734,,,,,,,,,,,Escondido,94.548
+Fairfield,9483.858,,,,,,,,,,,Eugene,1465.032
+Fargo,919.91,,,,,,,,,,,Evanston,1753.799
+Farmington,718.72,,,,,,,,,,,Everett,5665.734
+Fayetteville,6925.926,,,,,,,,,,,Fairfield,9483.858
+Florence,7621.72,,,,,,,,,,,Fargo,919.91
+Fort Collins,935.252,,,,,,,,,,,Farmington,718.72
+Fort Lauderdale,4929.5325,,,,,,,,,,,Fayetteville,6925.926
+Fort Worth,6602.7064,,,,,,,,,,,Florence,7621.72
+Frankfort,97.632,,,,,,,,,,,Fort Collins,935.252
+Franklin,11257.037,,,,,,,,,,,Fort Lauderdale,4929.5325
+Freeport,739.15,,,,,,,,,,,Fort Worth,6602.7064
+Fremont,1119.01,,,,,,,,,,,Frankfort,97.632
+Fresno,7888.5285,,,,,,,,,,,Franklin,11257.037
+Frisco,57.504,,,,,,,,,,,Freeport,739.15
+Gaithersburg,405.92,,,,,,,,,,,Fremont,1119.01
+Garden City,312.38,,,,,,,,,,,Fresno,7888.5285
+Garland,67.704,,,,,,,,,,,Frisco,57.504
+Gastonia,895.06,,,,,,,,,,,Gaithersburg,405.92
+Georgetown,1786.42,,,,,,,,,,,Garden City,312.38
+Gilbert,4172.382,,,,,,,,,,,Garland,67.704
+Gladstone,164.34,,,,,,,,,,,Gastonia,895.06
+Glendale,2917.865,,,,,,,,,,,Georgetown,1786.42
+Glenview,158.376,,,,,,,,,,,Gilbert,4172.382
+Goldsboro,34.944,,,,,,,,,,,Gladstone,164.34
+Grand Island,15.96,,,,,,,,,,,Glendale,2917.865
+Grand Prairie,1012.486,,,,,,,,,,,Glenview,158.376
+Grand Rapids,526.13,,,,,,,,,,,Goldsboro,34.944
+Grapevine,41.528,,,,,,,,,,,Grand Island,15.96
+Great Falls,4605.58,,,,,,,,,,,Grand Prairie,1012.486
+Greeley,30.352,,,,,,,,,,,Grand Rapids,526.13
+Green Bay,527.32,,,,,,,,,,,Grapevine,41.528
+Greensboro,2406.78,,,,,,,,,,,Great Falls,4605.58
+Greenville,2117.83,,,,,,,,,,,Greeley,30.352
+Greenwood,1665.05,,,,,,,,,,,Green Bay,527.32
+Gresham,2133.424,,,,,,,,,,,Greensboro,2406.78
+Grove City,123.588,,,,,,,,,,,Greenville,2117.83
+Gulfport,166.5,,,,,,,,,,,Greenwood,1665.05
+Hackensack,1456.16,,,,,,,,,,,Gresham,2133.424
+Hagerstown,43.8,,,,,,,,,,,Grove City,123.588
+Haltom City,269.328,,,,,,,,,,,Gulfport,166.5
+Hamilton,328.224,,,,,,,,,,,Hackensack,1456.16
+Hampton,2722.26,,,,,,,,,,,Hagerstown,43.8
+Harlingen,471.404,,,,,,,,,,,Haltom City,269.328
+Harrisonburg,4388.71,,,,,,,,,,,Hamilton,328.224
+Hattiesburg,1722.84,,,,,,,,,,,Hampton,2722.26
+Helena,443.84,,,,,,,,,,,Harlingen,471.404
+Hempstead,2589.586,,,,,,,,,,,Harrisonburg,4388.71
+Henderson,17549.068,,,,,,,,,,,Hattiesburg,1722.84
+Hendersonville,319.538,,,,,,,,,,,Helena,443.84
+Hesperia,1213.1715,,,,,,,,,,,Hempstead,2589.586
+Hialeah,2338.949,,,,,,,,,,,Henderson,17549.068
+Hickory,40.764,,,,,,,,,,,Hendersonville,319.538
+Highland Park,2035.096,,,,,,,,,,,Hesperia,1213.1715
+Hillsboro,87.838,,,,,,,,,,,Hialeah,2338.949
+Holland,137.86,,,,,,,,,,,Hickory,40.764
+Hollywood,1070.474,,,,,,,,,,,Highland Park,2035.096
+Holyoke,301.96,,,,,,,,,,,Hillsboro,87.838
+Homestead,132.552,,,,,,,,,,,Holland,137.86
+Hoover,525.85,,,,,,,,,,,Hollywood,1070.474
+Hot Springs,245.83,,,,,,,,,,,Holyoke,301.96
+Houston,64504.7604,,,,,,,,,,,Homestead,132.552
+Huntington Beach,2527.82,,,,,,,,,,,Hoover,525.85
+Huntsville,9194.9868,,,,,,,,,,,Hot Springs,245.83
+Independence,2417.37,,,,,,,,,,,Houston,64504.7604
+Indianapolis,9306.42,,,,,,,,,,,Huntington Beach,2527.82
+Inglewood,3479.328,,,,,,,,,,,Huntsville,9194.9868
+Iowa City,9.99,,,,,,,,,,,Independence,2417.37
+Irving,605.5,,,,,,,,,,,Indianapolis,9306.42
+Jackson,24963.858,,,,,,,,,,,Inglewood,3479.328
+Jacksonville,44713.183,,,,,,,,,,,Iowa City,9.99
+Jamestown,4708.79,,,,,,,,,,,Irving,605.5
+Jefferson City,86.62,,,,,,,,,,,Jackson,24963.858
+Johnson City,765.848,,,,,,,,,,,Jacksonville,44713.183
+Jonesboro,2915.32,,,,,,,,,,,Jamestown,4708.79
+Jupiter,2.064,,,,,,,,,,,Jefferson City,86.62
+Keller,6,,,,,,,,,,,Johnson City,765.848
+Kenner,89.32,,,,,,,,,,,Jonesboro,2915.32
+Kenosha,3906.73,,,,,,,,,,,Jupiter,2.064
+Kent,1697.556,,,,,,,,,,,Keller,6
+Kirkwood,241.34,,,,,,,,,,,Kenner,89.32
+Kissimmee,751.984,,,,,,,,,,,Kenosha,3906.73
+Knoxville,3928.166,,,,,,,,,,,Kent,1697.556
+La Crosse,830.41,,,,,,,,,,,Kirkwood,241.34
+La Mesa,367.53,,,,,,,,,,,Kissimmee,751.984
+La Porte,1051.732,,,,,,,,,,,Knoxville,3928.166
+La Quinta,46.32,,,,,,,,,,,La Crosse,830.41
+Lafayette,25036.2,,,,,,,,,,,La Mesa,367.53
+Laguna Niguel,290.983,,,,,,,,,,,La Porte,1051.732
+Lake Charles,547.41,,,,,,,,,,,La Quinta,46.32
+Lake Elsinore,283.92,,,,,,,,,,,Lafayette,25036.2
+Lake Forest,1625.536,,,,,,,,,,,Laguna Niguel,290.983
+Lakeland,5606.8865,,,,,,,,,,,Lake Charles,547.41
+Lakeville,4260.95,,,,,,,,,,,Lake Elsinore,283.92
+Lakewood,18192.047,,,,,,,,,,,Lake Forest,1625.536
+Lancaster,9891.464,,,,,,,,,,,Lakeland,5606.8865
+Lansing,1610.286,,,,,,,,,,,Lakeville,4260.95
+Laredo,1024.34,,,,,,,,,,,Lakewood,18192.047
+Las Cruces,98.77,,,,,,,,,,,Lancaster,9891.464
+Las Vegas,1834.02,,,,,,,,,,,Lansing,1610.286
+Laurel,152.59,,,,,,,,,,,Laredo,1024.34
+Lawrence,7654.192,,,,,,,,,,,Las Cruces,98.77
+Lawton,1057.49,,,,,,,,,,,Las Vegas,1834.02
+Layton,4.96,,,,,,,,,,,Laurel,152.59
+League City,875.368,,,,,,,,,,,Lawrence,7654.192
+Lebanon,488.896,,,,,,,,,,,Lawton,1057.49
+Lehi,1516.726,,,,,,,,,,,Layton,4.96
+Leominster,217.49,,,,,,,,,,,League City,875.368
+Lewiston,115.664,,,,,,,,,,,Lebanon,488.896
+Lincoln Park,387.602,,,,,,,,,,,Lehi,1516.726
+Linden,115.36,,,,,,,,,,,Leominster,217.49
+Lindenhurst,55.48,,,,,,,,,,,Lewiston,115.664
+Little Rock,3560.35,,,,,,,,,,,Lincoln Park,387.602
+Littleton,72.294,,,,,,,,,,,Linden,115.36
+Lodi,136.98,,,,,,,,,,,Lindenhurst,55.48
+Logan,280.276,,,,,,,,,,,Little Rock,3560.35
+Long Beach,13455.03,,,,,,,,,,,Littleton,72.294
+Longmont,915.088,,,,,,,,,,,Lodi,136.98
+Longview,119.21,,,,,,,,,,,Logan,280.276
+Lorain,2015.111,,,,,,,,,,,Long Beach,13455.03
+Los Angeles,175851.341,,,,,,,,,,,Longmont,915.088
+Louisville,12345.806,,,,,,,,,,,Longview,119.21
+Loveland,20.964,,,,,,,,,,,Lorain,2015.111
+Lowell,4837.93,,,,,,,,,,,Los Angeles,175851.341
+Lubbock,592.564,,,,,,,,,,,Louisville,12345.806
+Macon,364.01,,,,,,,,,,,Loveland,20.964
+Madison,5346.79,,,,,,,,,,,Lowell,4837.93
+Malden,228.38,,,,,,,,,,,Lubbock,592.564
+Manchester,2126.28,,,,,,,,,,,Macon,364.01
+Manhattan,273.96,,,,,,,,,,,Madison,5346.79
+Mansfield,558.877,,,,,,,,,,,Malden,228.38
+Manteca,452.182,,,,,,,,,,,Manchester,2126.28
+Maple Grove,882.87,,,,,,,,,,,Manhattan,273.96
+Margate,15.552,,,,,,,,,,,Mansfield,558.877
+Marietta,2938.62,,,,,,,,,,,Manteca,452.182
+Marion,3369.346,,,,,,,,,,,Maple Grove,882.87
+Marlborough,206.64,,,,,,,,,,,Margate,15.552
+Marysville,102.18,,,,,,,,,,,Marietta,2938.62
+Mason,94.264,,,,,,,,,,,Marion,3369.346
+Mcallen,866.716,,,,,,,,,,,Marlborough,206.64
+Medford,90.218,,,,,,,,,,,Marysville,102.18
+Medina,2477.722,,,,,,,,,,,Mason,94.264
+Melbourne,95.616,,,,,,,,,,,Mcallen,866.716
+Memphis,5942.341,,,,,,,,,,,Medford,90.218
+Mentor,693.13,,,,,,,,,,,Medina,2477.722
+Meriden,1550.68,,,,,,,,,,,Melbourne,95.616
+Meridian,329.052,,,,,,,,,,,Memphis,5942.341
+Mesa,4037.74,,,,,,,,,,,Mentor,693.13
+Mesquite,52.148,,,,,,,,,,,Meriden,1550.68
+Miami,8673.0745,,,,,,,,,,,Meridian,329.052
+Middletown,1154.61,,,,,,,,,,,Mesa,4037.74
+Midland,5291.512,,,,,,,,,,,Mesquite,52.148
+Milford,961.74,,,,,,,,,,,Miami,8673.0745
+Milwaukee,11410.22,,,,,,,,,,,Middletown,1154.61
+Minneapolis,16870.54,,,,,,,,,,,Midland,5291.512
+Miramar,1531.192,,,,,,,,,,,Milford,961.74
+Mishawaka,776.24,,,,,,,,,,,Milwaukee,11410.22
+Mission Viejo,775.986,,,,,,,,,,,Minneapolis,16870.54
+Missoula,487.984,,,,,,,,,,,Miramar,1531.192
+Missouri City,6.37,,,,,,,,,,,Mishawaka,776.24
+Mobile,5462.99,,,,,,,,,,,Mission Viejo,775.986
+Modesto,326.15,,,,,,,,,,,Missoula,487.984
+Monroe,2970.434,,,,,,,,,,,Missouri City,6.37
+Montebello,27.88,,,,,,,,,,,Mobile,5462.99
+Montgomery,3722.73,,,,,,,,,,,Modesto,326.15
+Moorhead,543.86,,,,,,,,,,,Monroe,2970.434
+Moreno Valley,1262.466,,,,,,,,,,,Montebello,27.88
+Morgan Hill,545.01,,,,,,,,,,,Montgomery,3722.73
+Morristown,5033.1,,,,,,,,,,,Moorhead,543.86
+Mount Pleasant,563.08,,,,,,,,,,,Moreno Valley,1262.466
+Mount Vernon,2119.632,,,,,,,,,,,Morgan Hill,545.01
+Murfreesboro,337.333,,,,,,,,,,,Morristown,5033.1
+Murray,410.938,,,,,,,,,,,Mount Pleasant,563.08
+Murrieta,484.65,,,,,,,,,,,Mount Vernon,2119.632
+Muskogee,1721.7,,,,,,,,,,,Murfreesboro,337.333
+Naperville,1288.303,,,,,,,,,,,Murray,410.938
+Nashua,35.94,,,,,,,,,,,Murrieta,484.65
+Nashville,6070.863,,,,,,,,,,,Muskogee,1721.7
+New Albany,209.55,,,,,,,,,,,Naperville,1288.303
+New Bedford,235.97,,,,,,,,,,,Nashua,35.94
+New Brunswick,14.77,,,,,,,,,,,Nashville,6070.863
+New Castle,84.61,,,,,,,,,,,New Albany,209.55
+New Rochelle,1255.228,,,,,,,,,,,New Bedford,235.97
+New York City,256368.161,,,,,,,,,,,New Brunswick,14.77
+Newark,28576.119,,,,,,,,,,,New Castle,84.61
+Newport News,3321.95,,,,,,,,,,,New Rochelle,1255.228
+Niagara Falls,199.842,,,,,,,,,,,New York City,256368.161
+Noblesville,3091.18,,,,,,,,,,,Newark,28576.119
+Norfolk,17.43,,,,,,,,,,,Newport News,3321.95
+Normal,366.744,,,,,,,,,,,Niagara Falls,199.842
+Norman,1351.33,,,,,,,,,,,Noblesville,3091.18
+North Charleston,284.25,,,,,,,,,,,Norfolk,17.43
+North Las Vegas,9801.002,,,,,,,,,,,Normal,366.744
+North Miami,22.128,,,,,,,,,,,Norman,1351.33
+Norwich,414.04,,,,,,,,,,,North Charleston,284.25
+Oak Park,591.052,,,,,,,,,,,North Las Vegas,9801.002
+Oakland,5964.418,,,,,,,,,,,North Miami,22.128
+Oceanside,4350.738,,,,,,,,,,,Norwich,414.04
+Odessa,976.124,,,,,,,,,,,Oak Park,591.052
+Oklahoma City,6596.82,,,,,,,,,,,Oakland,5964.418
+Olathe,895.79,,,,,,,,,,,Oceanside,4350.738
+Olympia,1020.448,,,,,,,,,,,Odessa,976.124
+Omaha,6312.53,,,,,,,,,,,Oklahoma City,6596.82
+Ontario,283.92,,,,,,,,,,,Olathe,895.79
+Orange,211.11,,,,,,,,,,,Olympia,1020.448
+Orem,2994.088,,,,,,,,,,,Omaha,6312.53
+Orland Park,339.96,,,,,,,,,,,Ontario,283.92
+Orlando,1740.08,,,,,,,,,,,Orange,211.11
+Ormond Beach,2.808,,,,,,,,,,,Orem,2994.088
+Oswego,321.978,,,,,,,,,,,Orland Park,339.96
+Overland Park,606.91,,,,,,,,,,,Orlando,1740.08
+Owensboro,71.18,,,,,,,,,,,Ormond Beach,2.808
+Oxnard,1558.1,,,,,,,,,,,Oswego,321.978
+Palatine,116.312,,,,,,,,,,,Overland Park,606.91
+Palm Coast,274.428,,,,,,,,,,,Owensboro,71.18
+Park Ridge,685,,,,,,,,,,,Oxnard,1558.1
+Parker,1067.942,,,,,,,,,,,Palatine,116.312
+Parma,3879.756,,,,,,,,,,,Palm Coast,274.428
+Pasadena,6590.146,,,,,,,,,,,Park Ridge,685
+Pasco,2201.112,,,,,,,,,,,Parker,1067.942
+Passaic,1562.086,,,,,,,,,,,Parma,3879.756
+Paterson,2243.21,,,,,,,,,,,Pasadena,6590.146
+Pearland,494.996,,,,,,,,,,,Pasco,2201.112
+Pembroke Pines,1714.3755,,,,,,,,,,,Passaic,1562.086
+Pensacola,2.214,,,,,,,,,,,Paterson,2243.21
+Peoria,1842.832,,,,,,,,,,,Pearland,494.996
+Perth Amboy,1717.08,,,,,,,,,,,Pembroke Pines,1714.3755
+Pharr,1540.708,,,,,,,,,,,Pensacola,2.214
+Philadelphia,109077.013,,,,,,,,,,,Peoria,1842.832
+Phoenix,11000.257,,,,,,,,,,,Perth Amboy,1717.08
+Pico Rivera,145.9,,,,,,,,,,,Pharr,1540.708
+Pine Bluff,212.91,,,,,,,,,,,Philadelphia,109077.013
+Plainfield,4526.85,,,,,,,,,,,Phoenix,11000.257
+Plano,3530.3746,,,,,,,,,,,Pico Rivera,145.9
+Plantation,1436.836,,,,,,,,,,,Pine Bluff,212.91
+Pleasant Grove,2138.178,,,,,,,,,,,Plainfield,4526.85
+Pocatello,1344.942,,,,,,,,,,,Plano,3530.3746
+Pomona,1482.502,,,,,,,,,,,Plantation,1436.836
+Pompano Beach,90.44,,,,,,,,,,,Pleasant Grove,2138.178
+Port Arthur,737.0528,,,,,,,,,,,Pocatello,1344.942
+Port Orange,7.824,,,,,,,,,,,Pomona,1482.502
+Port Saint Lucie,248.95,,,,,,,,,,,Pompano Beach,90.44
+Portage,16.28,,,,,,,,,,,Port Arthur,737.0528
+Portland,4051.869,,,,,,,,,,,Port Orange,7.824
+Providence,15980.65,,,,,,,,,,,Port Saint Lucie,248.95
+Provo,2761.234,,,,,,,,,,,Portage,16.28
+Pueblo,1686.938,,,,,,,,,,,Portland,4051.869
+Quincy,1276.459,,,,,,,,,,,Providence,15980.65
+Raleigh,4507.54,,,,,,,,,,,Provo,2761.234
+Rancho Cucamonga,231.852,,,,,,,,,,,Pueblo,1686.938
+Rapid City,152.64,,,,,,,,,,,Quincy,1276.459
+Reading,873.712,,,,,,,,,,,Raleigh,4507.54
+Redding,333.576,,,,,,,,,,,Rancho Cucamonga,231.852
+Redlands,2891.021,,,,,,,,,,,Rapid City,152.64
+Redmond,1098.257,,,,,,,,,,,Reading,873.712
+Redondo Beach,1959.803,,,,,,,,,,,Redding,333.576
+Redwood City,41.904,,,,,,,,,,,Redlands,2891.021
+Reno,644.062,,,,,,,,,,,Redmond,1098.257
+Renton,1242.632,,,,,,,,,,,Redondo Beach,1959.803
+Revere,833.26,,,,,,,,,,,Redwood City,41.904
+Richardson,1288.464,,,,,,,,,,,Reno,644.062
+Richmond,18137.93,,,,,,,,,,,Renton,1242.632
+Rio Rancho,1114.192,,,,,,,,,,,Revere,833.26
+Riverside,1944.246,,,,,,,,,,,Richardson,1288.464
+Rochester,7974.53,,,,,,,,,,,Richmond,18137.93
+Rochester Hills,132.52,,,,,,,,,,,Rio Rancho,1114.192
+Rock Hill,11.85,,,,,,,,,,,Riverside,1944.246
+Rockford,3166.228,,,,,,,,,,,Rochester,7974.53
+Rockville,469.77,,,,,,,,,,,Rochester Hills,132.52
+Rogers,40.41,,,,,,,,,,,Rock Hill,11.85
+Rome,534.852,,,,,,,,,,,Rockford,3166.228
+Romeoville,8.952,,,,,,,,,,,Rockville,469.77
+Roseville,3588.626,,,,,,,,,,,Rogers,40.41
+Roswell,6652.32,,,,,,,,,,,Rome,534.852
+Round Rock,4854.0528,,,,,,,,,,,Romeoville,8.952
+Royal Oak,35.34,,,,,,,,,,,Roseville,3588.626
+Sacramento,7311.278,,,,,,,,,,,Roswell,6652.32
+Saginaw,395.86,,,,,,,,,,,Round Rock,4854.0528
+Saint Charles,1659.65,,,,,,,,,,,Royal Oak,35.34
+Saint Cloud,1331.82,,,,,,,,,,,Sacramento,7311.278
+Saint Louis,285.96,,,,,,,,,,,Saginaw,395.86
+Saint Paul,192.83,,,,,,,,,,,Saint Charles,1659.65
+Saint Peters,697.16,,,,,,,,,,,Saint Cloud,1331.82
+Saint Petersburg,1690.792,,,,,,,,,,,Saint Louis,285.96
+Salem,3444.245,,,,,,,,,,,Saint Paul,192.83
+Salinas,728.891,,,,,,,,,,,Saint Peters,697.16
+Salt Lake City,802.776,,,,,,,,,,,Saint Petersburg,1690.792
+San Angelo,650.636,,,,,,,,,,,Salem,3444.245
+San Antonio,21843.528,,,,,,,,,,,Salinas,728.891
+San Bernardino,979.3,,,,,,,,,,,Salt Lake City,802.776
+San Clemente,90.058,,,,,,,,,,,San Angelo,650.636
+San Diego,47521.029,,,,,,,,,,,San Antonio,21843.528
+San Francisco,112669.092,,,,,,,,,,,San Bernardino,979.3
+San Gabriel,2061.01,,,,,,,,,,,San Clemente,90.058
+San Jose,6071.229,,,,,,,,,,,San Diego,47521.029
+San Luis Obispo,3.62,,,,,,,,,,,San Francisco,112669.092
+San Marcos,108.444,,,,,,,,,,,San Gabriel,2061.01
+San Mateo,75.18,,,,,,,,,,,San Jose,6071.229
+Sandy Springs,1997.03,,,,,,,,,,,San Luis Obispo,3.62
+Sanford,225.546,,,,,,,,,,,San Marcos,108.444
+Santa Ana,3366.31,,,,,,,,,,,San Mateo,75.18
+Santa Barbara,4289.234,,,,,,,,,,,Sandy Springs,1997.03
+Santa Clara,222.192,,,,,,,,,,,Sanford,225.546
+Santa Fe,100.92,,,,,,,,,,,Santa Ana,3366.31
+Santa Maria,115.44,,,,,,,,,,,Santa Barbara,4289.234
+Scottsdale,1466.307,,,,,,,,,,,Santa Clara,222.192
+Seattle,119540.742,,,,,,,,,,,Santa Fe,100.92
+Sheboygan,79.74,,,,,,,,,,,Santa Maria,115.44
+Shelton,73.33,,,,,,,,,,,Scottsdale,1466.307
+Sierra Vista,76.072,,,,,,,,,,,Seattle,119540.742
+Sioux Falls,1137.42,,,,,,,,,,,Sheboygan,79.74
+Skokie,568.832,,,,,,,,,,,Shelton,73.33
+Smyrna,3238.889,,,,,,,,,,,Sierra Vista,76.072
+South Bend,1238.33,,,,,,,,,,,Sioux Falls,1137.42
+Southaven,1455.39,,,,,,,,,,,Skokie,568.832
+Sparks,2561.96,,,,,,,,,,,Smyrna,3238.889
+Spokane,2027.918,,,,,,,,,,,South Bend,1238.33
+Springdale,4.3,,,,,,,,,,,Southaven,1455.39
+Springfield,43054.342,,,,,,,,,,,Sparks,2561.96
+Sterling Heights,110.04,,,,,,,,,,,Spokane,2027.918
+Stockton,1227.6,,,,,,,,,,,Springdale,4.3
+Suffolk,1597.9,,,,,,,,,,,Springfield,43054.342
+Summerville,406.94,,,,,,,,,,,Sterling Heights,110.04
+Sunnyvale,636.21,,,,,,,,,,,Stockton,1227.6
+Superior,1299.73,,,,,,,,,,,Suffolk,1597.9
+Tallahassee,7250.669,,,,,,,,,,,Summerville,406.94
+Tamarac,1413.51,,,,,,,,,,,Sunnyvale,636.21
+Tampa,5196.0805,,,,,,,,,,,Superior,1299.73
+Taylor,353.7,,,,,,,,,,,Tallahassee,7250.669
+Temecula,808.666,,,,,,,,,,,Tamarac,1413.51
+Tempe,1070.302,,,,,,,,,,,Tampa,5196.0805
+Texarkana,654.24,,,,,,,,,,,Taylor,353.7
+Texas City,790.972,,,,,,,,,,,Temecula,808.666
+The Colony,142.16,,,,,,,,,,,Tempe,1070.302
+Thomasville,151.292,,,,,,,,,,,Texarkana,654.24
+Thornton,765.248,,,,,,,,,,,Texas City,790.972
+Thousand Oaks,238.804,,,,,,,,,,,The Colony,142.16
+Tigard,1393.782,,,,,,,,,,,Thomasville,151.292
+Tinley Park,22.288,,,,,,,,,,,Thornton,765.248
+Toledo,4466.053,,,,,,,,,,,Thousand Oaks,238.804
+Torrance,3132.268,,,,,,,,,,,Tigard,1393.782
+Trenton,1765.195,,,,,,,,,,,Tinley Park,22.288
+Troy,4507.091,,,,,,,,,,,Toledo,4466.053
+Tucson,6313.016,,,,,,,,,,,Torrance,3132.268
+Tulsa,5556.97,,,,,,,,,,,Trenton,1765.195
+Tuscaloosa,175.7,,,,,,,,,,,Troy,4507.091
+Twin Falls,1148.806,,,,,,,,,,,Tucson,6313.016
+Tyler,347.206,,,,,,,,,,,Tulsa,5556.97
+Urbandale,149.12,,,,,,,,,,,Tuscaloosa,175.7
+Utica,655.04,,,,,,,,,,,Twin Falls,1148.806
+Vacaville,423.28,,,,,,,,,,,Tyler,347.206
+Vallejo,1221.41,,,,,,,,,,,Urbandale,149.12
+Vancouver,686.836,,,,,,,,,,,Utica,655.04
+Vineland,647.966,,,,,,,,,,,Vacaville,423.28
+Virginia Beach,5752.13,,,,,,,,,,,Vallejo,1221.41
+Visalia,318.78,,,,,,,,,,,Vancouver,686.836
+Waco,606.1072,,,,,,,,,,,Vineland,647.966
+Warner Robins,434.8,,,,,,,,,,,Virginia Beach,5752.13
+Warwick,2426.84,,,,,,,,,,,Visalia,318.78
+Washington,2865.02,,,,,,,,,,,Waco,606.1072
+Waterbury,1326.06,,,,,,,,,,,Warner Robins,434.8
+Waterloo,30.32,,,,,,,,,,,Warwick,2426.84
+Watertown,4044.998,,,,,,,,,,,Washington,2865.02
+Waukesha,54.5,,,,,,,,,,,Waterbury,1326.06
+Wausau,317.48,,,,,,,,,,,Waterloo,30.32
+Waynesboro,3058.77,,,,,,,,,,,Watertown,4044.998
+West Allis,250.48,,,,,,,,,,,Waukesha,54.5
+West Jordan,311.85,,,,,,,,,,,Wausau,317.48
+West Palm Beach,141.328,,,,,,,,,,,Waynesboro,3058.77
+Westfield,519.72,,,,,,,,,,,West Allis,250.48
+Westland,2057.976,,,,,,,,,,,West Jordan,311.85
+Westminster,3826.646,,,,,,,,,,,West Palm Beach,141.328
+Wheeling,1946.966,,,,,,,,,,,Westfield,519.72
+Whittier,444.768,,,,,,,,,,,Westland,2057.976
+Wichita,825.27,,,,,,,,,,,Westminster,3826.646
+Wilmington,7297.061,,,,,,,,,,,Wheeling,1946.966
+Wilson,368.732,,,,,,,,,,,Whittier,444.768
+Woodbury,607.65,,,,,,,,,,,Wichita,825.27
+Woodland,264.662,,,,,,,,,,,Wilmington,7297.061
+Woodstock,1143.9,,,,,,,,,,,Wilson,368.732
+Woonsocket,195.55,,,,,,,,,,,Woodbury,607.65
+Yonkers,7657.666,,,,,,,,,,,Woodland,264.662
+York,817.978,,,,,,,,,,,Woodstock,1143.9
+Yucaipa,50.8,,,,,,,,,,,Woonsocket,195.55
+Yuma,840.865,,,,,,,,,,,Yonkers,7657.666
+Grand Total,2297200.86,,,,,,,,,,,York,817.978
+,,,,,,,,,,,,Yucaipa,50.8
+,,,,,,,,,,,,Yuma,840.865
+,,,,,,,,,,,,Grand Total,2297200.86
